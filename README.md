@@ -1,4 +1,4 @@
-# LLaMA GPU Benchmark - Runpod Serverless
+LLaMA GPU Benchmark 2 - Runpod Serverless
 
 [![Runpod](https://api.runpod.io/badge/azathudaynaz/runpod)](https://console.runpod.io/hub/azathudaynaz/runpod)
 
